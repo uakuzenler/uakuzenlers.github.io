@@ -1,0 +1,50 @@
+﻿body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-image: url('../img/bg2.png');
+    background-size: 194px;
+    background-repeat: repeat;
+    background-position: center center;
+}
+
+body {
+    background: #0e2866 url(../img/bg.png) center 0;
+    background-size: 467px 711px;
+}
+
+.hero-widget {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+    .hero-widget .icon {
+        display: block;
+        font-size: 96px;
+        line-height: 96px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .hero-widget var {
+        display: block;
+        height: 64px;
+        font-size: 64px;
+        line-height: 64px;
+        font-style: normal;
+    }
+
+    .hero-widget label {
+        font-size: 17px;
+    }
+
+    .hero-widget .options {
+        margin-top: 10px;
+    }
